@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+}
+.cabeza{
+ overflow: hidden;
+}
+.izquierda{
+    width: 35px;
+    float: left;
+}
+.derecha{
+    width: 36px;
+    float: right;
+    position: absolute;
+top: 8px; left: 489px;
+}
+.centro{
+    width: 300px;
+    margin: 0;
+}
+.cuerpo img{
+    width: 400px;
+    height: 350px;
+}
+.likes{
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
